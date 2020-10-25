@@ -1,0 +1,50 @@
+2299750215
+Semaphores generated
+Mutex semaphore initiated
+Space semaphores initiated
+Items semaphore initiated
+Creating new producer
+Creating new producer
+Creating new consumer
+Creating new consumer
+Creating new consumer
+Consumer(3): Job id 1 executing sleep duration 4
+Consumer(2): Job id 1 executing sleep duration 8
+Producer 2 JOB ID 1 duration 8
+Consumer(1): Job id 2 executing sleep duration 4
+Producer 2 JOB ID 1 duration 4
+Producer 2 JOB ID 2 duration 4
+Job id 1 completed
+Consumer(3): Job id 2 executing sleep duration 7
+Producer 2 JOB ID 3 duration 10
+Producer 2 JOB ID 2 duration 7
+Job id 2 completed
+Consumer(1): Job id 3 executing sleep duration 10
+Producer 2 JOB ID 4 duration 3
+Job id 1 completed
+Consumer(2): Job id 4 executing sleep duration 3
+Producer 2 JOB ID 5 duration 4
+Producer 2 JOB ID 3 duration 1
+Job id 2 completed
+Consumer(3): Job id 3 executing sleep duration 1
+Job id 4 completed
+Consumer(2): Job id 5 executing sleep duration 4
+Producer 2 JOB ID 6 duration 1
+Producer 2 has no more jobs to generate
+Job id 3 completed
+Consumer(3): Job id 6 executing sleep duration 1
+Producer 2 JOB ID 4 duration 3
+Job id 6 completed
+Consumer(3): Job id 4 executing sleep duration 3
+Job id 5 completed
+Consumer(2): Job id 5 executing sleep duration 2
+Job id 3 completed
+Job id 4 completed
+Producer 2 JOB ID 5 duration 2
+Consumer(1): Job id 6 executing sleep duration 8
+Job id 5 completed
+No more jobs left
+Producer 2 JOB ID 6 duration 8
+Producer 2 has no more jobs to generate
+Job id 6 completed
+No more jobs left
